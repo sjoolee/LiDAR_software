@@ -1,5 +1,5 @@
-# LiDAR_software
-Device Overview
+## LiDAR_software
+#Device Overview
 Features
 The circuitry consists of two external push buttons, two on-board LEDs on the microcontroller, the stepper motor and the ToF sensor to capture 360 degrees distance data using the push buttons to control the circuit functions.
 MSP432E401Y microcontroller
